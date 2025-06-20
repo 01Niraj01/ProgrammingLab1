@@ -68,6 +68,7 @@ Notes
 - Ensure MySQL JDBC driver is correctly added to the project dependencies.
 - Modify credentials in the code as per your database setup.
 
+Note: Since the code wasnot running properly, I have to collect the resources from the AI like chatgpt. I also visited W3schools to get some ideas. I did all the research required to make my code best.
 ---
 Author
 
